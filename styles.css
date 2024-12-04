@@ -40,7 +40,7 @@ body {
     font-size: larger;
     font-weight: 550;
     text-decoration: none;
-    padding: 22px;
+    padding: 1rem;
 }
 
 .nav-list li a:hover {
